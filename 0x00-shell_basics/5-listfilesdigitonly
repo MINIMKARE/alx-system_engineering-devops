@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-Dir
-=======
 ls -lna
->>>>>>> 5-listfilesdigitonly
