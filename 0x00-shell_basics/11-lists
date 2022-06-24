@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ls -la
-=======
 ls -la . .. /boot
->>>>>>> 11-lists
